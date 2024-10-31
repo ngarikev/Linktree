@@ -3,7 +3,7 @@ body {
   padding: 0;
   box-sizing: border-box;
   background: url(./images/woodbg.png) repeat-x 0 0 scroll;
-  /* background-color: #0c0c0c; */
+  background-color: #0c0c0c;
   width: 100%;
   height: 100%;
   color: #303040;
